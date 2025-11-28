@@ -1,6 +1,11 @@
 # King County, Washington House Sales – Tableau Dashboard
 
 
+![King County, Washington House Sales Dashboard](https://github.com/maryamsh62/Tableau-Portfolio-Project---King-County-Washington-House-Sales/blob/master/King%20County%20Dashboard.png)
+
+[TableauPublic](https://public.tableau.com/app/profile/maryamsadat.shakeri/viz/KingCountyWashingtonHouseSales_17612712919360/Dashboard1)
+
+
 ## Project Overview
 
 This repository contains a Tableau project that analyzes residential house sales in King County, Washington.
@@ -37,7 +42,7 @@ The dataset includes individual house sale records for King County, WA.
 - **sqft_living, sqft_lot**
 - **yr_built**
 - **view, condition**
-- **lat, long or geographic fields such as zipcode / neighborhood**
+- **lat, long, or geographic fields such as zipcode/neighborhood**
 
 **Important data step:**
 
@@ -54,13 +59,13 @@ The dashboard is built around a calendar widget as the main filter, and includes
    - `Month dropdown + calendar:`
      Select a month from the dropdown and a specific day from the calendar to filter all views on the dashboard.
 
-   - `Year Built slider:`
+   - `Year Built slider:.`
      Filter properties by construction year.
 
-   - `Sqft Living slider:`
+   - `Sqft Living slider:.`
      Restrict results by interior living area.
 
-   - `Sqft Lot slider:`
+   - `Sqft Lot slider:.`
      Restrict results by lot size.
 
    These filters are global and update every chart and the map simultaneously. 
