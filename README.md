@@ -59,13 +59,13 @@ The dashboard is built around a calendar widget as the main filter, and includes
    - `Month dropdown + calendar:`
      Select a month from the dropdown and a specific day from the calendar to filter all views on the dashboard.
 
-   - `Year Built slider:.`
+   - `Year Built slider:`
      Filter properties by construction year.
 
-   - `Sqft Living slider:.`
+   - `Sqft Living slider:`
      Restrict results by interior living area.
 
-   - `Sqft Lot slider:.`
+   - `Sqft Lot slider:`
      Restrict results by lot size.
 
    These filters are global and update every chart and the map simultaneously. 
